@@ -13,7 +13,7 @@
 ### 📝 声明
 * **软件原作者**：Tim Green (https://steamedit.tg-software.com/)
 
-* **修改内容**：本版本由 墨翎 进行了全界面汉化，并修复了部分 UI 布局问题。
+* **修改内容**：本版本由 墨翎 进行了全界面汉化，并修复了部分 UI 布局问题。  **原mokeling账号被github标记了，目前使用该“小号”暂时替代（迫真**
 
 * **许可说明**：本人不对原软件拥有版权，如有侵权请联系删除。对于本人所做的汉化和 UI 修改部分，欢迎任何用户进行二次加工或改进，无需额外授权。
 
@@ -31,5 +31,5 @@ Due to Steam's update to the `appinfo.vdf` format, older versions of SteamEdit h
 ### 📝 Disclaimer
 
 * **Original Author**: Tim Green (https://steamedit.tg-software.com/)
-* **Modifications**: This version features full interface localization and various UI layout fixes performed by 墨翎.
+* **Modifications**: This version features full interface localization and various UI layout fixes performed by 墨翎.  **The original mokeling account has been marked by GitHub. Currently, I’m using this “alternative account” instead.**
 * **License & Permissions**: I do not own the copyright to the original software; please contact me for removal in case of any infringement. Regarding the localization and UI modifications I have contributed, anyone is welcome to perform secondary processing or further improvements without additional authorization.
